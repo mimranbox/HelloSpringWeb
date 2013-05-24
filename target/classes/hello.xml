@@ -15,4 +15,8 @@
 	<bean id="gson" class="com.google.gson.Gson">
 	</bean>
 	
+	<bean id="ia"  class="com.umar.test.Company">
+		<property name="name" value="Information Architects"/>
+	</bean>
+	
 </beans>
